@@ -1,4 +1,4 @@
-# Spyder🕷
+# Spyder🕷 
 **Spyder is a universal open-source intelligence (OSINT) research tool that performs searches using large global databases.**
 #
 [![Static Badge](https://img.shields.io/badge/Telegram-Channel-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/+pB6j65Kv7cdjZmU0)
@@ -25,13 +25,13 @@
 
 # Installation🍃(WINDOWS)
 ```shell
-git clone https://github.com/shourout/spyder-osint
+git clone https://github.com/WezRyan/spyder-osint
 cd spyder-osint
 run.bat
 ```
 **OR**
 ```shell
-git clone https://github.com/shourout/spyder-osint
+git clone https://github.com/WezRyan/spyder-osint
 cd spyder-osint
 pip install -r requirements.txt
 python spyder.py
@@ -39,7 +39,7 @@ python spyder.py
 # Installation🍃(LINUX)
 ```shell
 sudo apt install python3 python3-pip -y
-git clone https://github.com/shourout/spyder-osint
+git clone https://github.com/WezRyan/spyder-osint
 cd spyder-osint
 pip3 install -r requirements.txt
 chmod +x run.sh
