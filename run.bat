@@ -1,5 +1,5 @@
 @echo off
-title spyder
+title spyder 
     if exist requirements.txt (
 		echo installing wheel for faster installing
         python spyder.py
