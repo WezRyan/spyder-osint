@@ -1,7 +1,7 @@
 """
 Utils functions -
 """
-
+ 
 
 def format_dict(data, attribute=None):
     for key, value in data.items():
